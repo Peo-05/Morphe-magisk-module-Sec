@@ -1,0 +1,11 @@
+[
+  {
+    "patchName": "Change package name",
+    "options": [
+      {
+        "key": "PackageName",
+        "value": "app.rvx.android.youtube"
+      }
+    ]
+  }
+]
