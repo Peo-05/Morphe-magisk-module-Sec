@@ -1,6 +1,6 @@
 {
-  "version": "v21.30.216 (patches 2.1.0.mpp)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/Peo-05/Morphe-magisk-module-Sec/releases/download/9/rvx-morphe-module-v21.30.216-all.zip",
+  "version": "v21.30.216 (patches 2.2.0.mpp)",
+  "versionCode": 11,
+  "zipUrl": "https://github.com/Peo-05/Morphe-magisk-module-Sec/releases/download/11/rvx-morphe-module-v21.30.216-all.zip",
   "changelog": "https://raw.githubusercontent.com/Peo-05/Morphe-magisk-module-Sec/update/build.md"
 }
